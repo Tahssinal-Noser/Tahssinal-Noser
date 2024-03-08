@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tahssinal-Noser
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning C, JAVA, JavaScript
-- 💞️ I’m looking to collaborate on nothing
+- 💞️ I’m looking to collaborate on Java Spring Boot
 - 📫 How to reach me Gmail -> tahssin.alkhatib@gmail.com
